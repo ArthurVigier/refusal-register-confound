@@ -1,6 +1,6 @@
 # The Geometry of Refusal Is a Geometry of Register: Dissociating Linguistic Form from Normative Content Across 9 Language Models
 
-**Anonymous**
+**Arthur Vigier**
 
 ## Abstract
 
